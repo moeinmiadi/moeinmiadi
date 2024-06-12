@@ -7,5 +7,5 @@
 
 <p align="center"> 
   Profile visitor count<br>
-  <img src="https://profile-counter.glitch.me/thornjad/count.svg" />
+  <img src="https://profile-counter.glitch.me/moeinmiadi/count.svg" />
 </p>
